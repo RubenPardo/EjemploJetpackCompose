@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">EjemploJetpackCompose</string>
+    <string name="users">Users</string>
+    <string name="add_user">Añadir Usuario</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellidos</string>
+    <string name="age">Edad</string>
+    <string name="add_random_user">Añadir usuario aleatorio</string>
 </resources>
